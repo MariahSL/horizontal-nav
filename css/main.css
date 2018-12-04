@@ -30,6 +30,6 @@ ul li {
   background-color: #713837;
   padding:  .6em .5em .75em;
   display: inline-block;
-  align-content: center;
+  margin: .3em;
 
 }
