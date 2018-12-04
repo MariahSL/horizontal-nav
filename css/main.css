@@ -10,6 +10,7 @@ html {
 
 header {
   background-color: #79756f;
+  border-color: #595652;
 }
 
 h1, ul {
@@ -23,4 +24,5 @@ h1 {
 
 ul li {
   list-style-type: none;
+  font-family: sans-serif;
 }
