@@ -13,6 +13,9 @@ body {
   border-style: solid;
   border-color: #595652;
   margin: 0;
+  display: block;
+  padding: 0;
+  border: 3px solid #595652;
 }
 
 header {
@@ -30,8 +33,11 @@ h1, ul {
 }
 
 h1 {
-  font-family: 'Bevan', sans-serif;
+  font-family: "Bevan", sans-serif;
   text-align: center;
+  display: block;
+  padding: .48em 0 .035em;
+  margin: 0;
 }
 
 ul li {
@@ -43,6 +49,7 @@ ul li {
   display: inline-block;
 }
 
-li:hover {
+a:hover {
   background-color: #f33;
+  color: #fff;
 }
