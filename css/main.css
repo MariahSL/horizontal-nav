@@ -12,6 +12,7 @@ body {
   background-color: #79756f;
   border-style: solid;
   border-color: #595652;
+  margin: 0;
 }
 
 header {
@@ -29,8 +30,8 @@ h1, ul {
 }
 
 h1 {
-  text-align: center;
   font-family: 'Bevan', sans-serif;
+  text-align: center;
 }
 
 ul li {
