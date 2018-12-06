@@ -17,7 +17,7 @@ body {
   display: block;
   padding: 0;
   border: 3px solid #595652;
-  color:  #fff;
+  color: #fff;
   line-height: 1.2;
 }
 
@@ -32,8 +32,8 @@ header {
 }
 
 h1 {
-  font-family: Bevan,sans-serif;
-  padding:  .6em .5em .75em;
+  font-family: 'Bevan', cursive;
+  padding: .6em .5em .75em;
   margin: .3em;
 }
 
