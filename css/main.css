@@ -60,3 +60,7 @@ nav li {
   display: inline-block;
   color: #fff;
 }
+
+ul {
+  padding: 0;
+}
