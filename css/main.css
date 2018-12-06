@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
   line-height: 1.5;
   background-color: #dbd6cf;
+  font-family: sans-serif;
 }
 
 *, *::before, *::after {
@@ -43,7 +44,7 @@ ul li {
   padding: .6em .5em .75em;
   margin: .3em  0;
   display: inline-block;
-  border-radius: 4px;
+  border-radius: 5px;
 }
 
 li:hover {
