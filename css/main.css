@@ -13,6 +13,9 @@ header {
   border-style: solid;
   border-color: #595652;
   padding:  .6em .5em .75em;
+  margin: 0;
+  vertical-align: middle;
+  text-align: center;
 }
 
 h1, ul {
@@ -29,7 +32,11 @@ ul li {
   font-family: sans-serif;
   background-color: #713837;
   padding:  .6em .5em .75em;
+  margin: .3em  0;
   display: inline-block;
-  margin: .3em;
 
+}
+
+li:hover {
+  background-color: #f33;
 }
