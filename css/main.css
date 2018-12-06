@@ -28,16 +28,12 @@ header {
   text-align: center;
 }
 
-h1, ul {
-  color: #fff;
-}
-
 h1 {
-  font-family: "Bevan", sans-serif;
+  font-family: Bevan, sans-serif;
   text-align: center;
   display: block;
   padding: .48em 0 .035em;
-
+  color: #fff;
 }
 
 ul li {
@@ -47,6 +43,7 @@ ul li {
   padding: .6em .5em .75em;
   margin: .3em  0;
   display: inline-block;
+  border-radius: 4px;
 }
 
 li:hover {
