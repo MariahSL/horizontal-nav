@@ -8,6 +8,11 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  background-color: #79756f;
+  border-style: solid;
+  border-color: #595652;
+}
 header {
   background-color: #79756f;
   border-style: solid;
