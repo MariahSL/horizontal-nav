@@ -33,7 +33,6 @@ h1 {
   font-family: Bevan, sans-serif;
   text-align: center;
   display: block;
-  padding: .48em 0 .035em;
   color: #fff;
 }
 
@@ -55,4 +54,9 @@ li:hover {
 a {
   color: #fff;
   text-decoration: none;
+}
+
+nav li {
+  display: inline-block;
+  color: #fff;
 }
