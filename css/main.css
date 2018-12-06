@@ -17,6 +17,8 @@ body {
   display: block;
   padding: 0;
   border: 3px solid #595652;
+  color:  #fff;
+  line-height: 1.2;
 }
 
 header {
@@ -30,10 +32,9 @@ header {
 }
 
 h1 {
-  font-family: Bevan;
-  text-align: center;
-  display: block;
-  color: #fff;
+  font-family: Bevan,sans-serif;
+  padding:  .6em, .5em .75em;
+  margin: .3em;
 }
 
 ul li {
@@ -56,11 +57,7 @@ a {
   text-decoration: none;
 }
 
-nav li {
-  display: inline-block;
-  color: #fff;
-}
-
 ul {
-  padding: 0;
+  padding: 0px;
+  margin: 0px;
 }
